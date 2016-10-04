@@ -1,0 +1,30 @@
+h1{
+  color:	#008080;
+}
+h1 {
+    text-decoration: underline;
+}
+p{
+  color: 	#008080;
+}
+img {
+width: 200px;  
+}
+h1{
+  font-size: 350%;
+}
+p{
+  font-size: 125%;
+}
+ul{
+  font-size: 125%
+}
+img.galleryImage {
+  width: 100px;
+}
+body {
+    background-color: #F0F9FA;
+}
+h3{
+  text-decoration: underline;
+}
